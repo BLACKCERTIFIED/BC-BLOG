@@ -20,7 +20,6 @@ posts = [
     }
 ]
 
-
 @app.route("/")
 @app.route("/home")
 def home():
